@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-mergeDebugResources-30:\\layout\\item.xml",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-mergeDebugResources-30:\\layout\\activity_add_contact.xml",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\layout\\activity_add_contact.xml"
+    },
+    {
+        "merged": "com.example.tp1.app-mergeDebugResources-30:/layout/activity_show_contact.xml",
+        "source": "com.example.tp1.app-main-33:/layout/activity_show_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-mergeDebugResources-30:\\layout\\activity_edit_contact.xml",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\layout\\activity_edit_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-mergeDebugResources-30:\\layout\\edit_contact.xml",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\layout\\edit_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-mergeDebugResources-30:\\layout\\activity_show_contact.xml",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\layout\\activity_show_contact.xml"
+    }
+]

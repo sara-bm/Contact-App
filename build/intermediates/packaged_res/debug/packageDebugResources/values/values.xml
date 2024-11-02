@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="orange">#3D5AFE</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">tp1</string>
+    <style name="Base.Theme.Tp1" parent="Theme.Material3.DayNight.NoActionBar">
+        
+         <item name="colorPrimary">@color/orange</item>
+         <item name="colorPrimaryVariant">@color/orange</item>
+         <item name="android:statusBarColor">@color/orange</item>
+    </style>
+    <style name="Theme.Tp1" parent="Base.Theme.Tp1"/>
+</resources>

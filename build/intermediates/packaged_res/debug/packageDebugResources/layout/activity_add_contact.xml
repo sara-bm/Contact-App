@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F9F9F9"
+    android:padding="16dp"
+    tools:context=".AddContact">
+
+    <!-- Image Filter View (Header Image) -->
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/imageFilterView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="16dp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/frieeends_removebg_preview" />
+
+    <!-- Logout Button (Top Right of the Image) -->
+    <ImageView
+        android:id="@+id/btnlogout"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignTop="@id/imageFilterView"
+        android:layout_alignEnd="@id/imageFilterView"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/baseline_logout_24"
+        app:tint="#444445" />
+
+    <!-- Header Title -->
+    <TextView
+        android:id="@+id/addContactHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageFilterView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp"
+        android:fontFamily="@font/alata"
+        android:text="Add Contact"
+        android:textColor="@color/orange"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <!-- Name Input -->
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@id/addContactHeading"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/orange_border"
+        android:backgroundTint="#FFFFFF"
+        android:elevation="4dp"
+        android:fontFamily="@font/alata"
+        android:hint="Enter the name"
+        android:maxLines="1"
+        android:padding="16dp"
+        android:textSize="18sp" />
+
+    <!-- Nickname Input -->
+    <EditText
+        android:id="@+id/editTextNickname"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/editTextName"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/orange_border"
+        android:backgroundTint="#FFFFFF"
+        android:elevation="4dp"
+        android:fontFamily="@font/alata"
+        android:hint="Enter the nickname"
+        android:maxLines="1"
+        android:padding="16dp"
+        android:textSize="18sp" />
+
+    <!-- Phone Input -->
+    <EditText
+        android:id="@+id/editTextTel"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/editTextNickname"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/orange_border"
+        android:backgroundTint="#FFFFFF"
+        android:elevation="4dp"
+        android:fontFamily="@font/alata"
+        android:hint="Enter the tel"
+        android:inputType="phone"
+        android:maxLines="1"
+        android:padding="16dp"
+        android:textSize="18sp" />
+
+    <!-- Save Button (Bottom Right) -->
+    <ImageView
+        android:id="@+id/buttonSave"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="156dp"
+        android:layout_marginBottom="123dp"
+        android:background="#76E9DE"
+        android:src="@drawable/baseline_done_24"
+        app:tint="#068108" />
+
+</RelativeLayout>

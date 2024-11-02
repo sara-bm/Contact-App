@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_orange_border.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\orange_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_baseline_done_24.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tp1.app-debug-31:/layout_activity_show_contact.xml.flat",
+        "source": "com.example.tp1.app-main-33:/layout/activity_show_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_rounded_button_background.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\rounded_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\layout_activity_show_contact.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\layout\\activity_show_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\layout_activity_add_contact.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\layout\\activity_add_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_login.png.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_rounded_edittext_background.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\rounded_edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\layout_item.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\layout_activity_edit_contact.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\layout\\activity_edit_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_baseline_call_24.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\baseline_call_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\layout_edit_contact.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\layout\\edit_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_frieeends_removebg_preview.png.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\frieeends_removebg_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_search_view_background.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\search_view_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\font_alata.ttf.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\font\\alata.ttf"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\drawable_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\drawable\\baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sarra\\.gradle\\daemon\\8.9\\com.example.tp1.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]
